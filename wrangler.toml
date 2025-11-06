@@ -1,4 +1,4 @@
-name = "substracker"
+name = "subs-tracker"
 main = "index.js"
 compatibility_date = "2024-01-01"
 compatibility_flags = ["nodejs_compat"]
@@ -13,7 +13,7 @@ name = "subscription-manager-staging"
 [[kv_namespaces]]
 binding = "SUBSCRIPTIONS_KV"
 preview_id = "your-preview-kv-namespace-id"
-id = "your-production-kv-namespace-id"
+id = "abc26e1d49324af9ae56fbe1d05ec814"
 
 # 定时任务配置 - 每天早上8点检查
 [triggers]
